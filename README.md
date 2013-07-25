@@ -1,4 +1,4 @@
-EZ Notepad
+Notepad
 ==========
 
 A native Android notepad application
