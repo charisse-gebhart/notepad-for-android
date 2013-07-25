@@ -1,0 +1,6 @@
+http://developer.android.com/training/notepad/index.html
+
+http://developer.android.com/training/notepad/notepad-index.html
+
+
+*We can download the sample project (zip file) and use it as a reference when building our own notepad application.
