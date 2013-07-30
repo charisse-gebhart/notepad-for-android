@@ -4,5 +4,8 @@
     <string name="app_name">Notepad</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
-
+	<string name="newN">New Note</string>
+	<string name="modified">Sort by modified</string>
+	<string name="created">Sort by created</string>	
+	<color name="background">#5E2612</color>
 </resources>
